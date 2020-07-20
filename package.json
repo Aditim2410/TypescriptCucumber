@@ -1,0 +1,25 @@
+{
+  "name": "typescriptcucumber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aditi",
+  "license": "ISC",
+  "dependencies": {
+    "@types/q": "^0.0.32",
+    "@types/selenium-webdriver": "^3.0.0",
+    "jasmine": "2.8.0",
+    "jasminewd2": "^2.1.0",
+    "webdriver-manager": "^12.1.7",
+    "typescript": "~2.6.2",
+    "@types/jasmine": "^2.5.47",
+    "@types/jasminewd2": "^2.0.0",
+    "@types/minimatch": "^2.0.28",
+    "@types/node": "^6.0.46",
+    "protractor": "7.0.0",
+    "node": ">=10.13.x"
+  }
+}
